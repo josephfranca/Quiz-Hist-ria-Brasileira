@@ -42,4 +42,4 @@ Certifique-se de ter o Python instalado em sua máquina. Você pode baixar em [p
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/josephfranca/Quiz-Hist-ria-Brasileira.git]
+   git clone https://github.com/josephfranca/Quiz-Hist-ria-Brasileira.git
