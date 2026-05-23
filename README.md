@@ -43,3 +43,10 @@ Certifique-se de ter o Python instalado em sua máquina. Você pode baixar em [p
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/josephfranca/Quiz-Hist-ria-Brasileira.git
+
+2. **Acesse o diretório do projeto e execute o programa no terminal:**
+```bash
+   cd Quiz-Hist-ria-Brasileira
+   py quizBrasil.py
+
+
